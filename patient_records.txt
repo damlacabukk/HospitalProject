@@ -1,0 +1,9 @@
+Name: as
+Surname: sa
+Department: Oral and Dental Diseases
+Doctor: Dr. Duncan
+Appointment Time: 10:00
+Appointment Date: 2024-01-02
+Phone: ss
+Email: ss
+------------------------
